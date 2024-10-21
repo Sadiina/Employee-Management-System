@@ -1,0 +1,3 @@
+Sajali, 200397, Marketing Department, Financial Analyst, 6007, 6007
+sadina, 2003, IT Department, IT Manager, 2004, 2004
+Wathsala, 1998, Finance Department, Financial Analyst, 4003, 4003

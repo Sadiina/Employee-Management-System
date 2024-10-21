@@ -1,0 +1,6 @@
+Sadina,Patalee
+Namal,Namal
+Sajali,12345
+Devinda,Snowy
+1,1
+Namal,Snowy
